@@ -1,7 +1,7 @@
 # Some basic TI-84 calculator programs
 * Requirements:
     * TI-84 Plus Calculator
-    * USB-A to USB-B cord
+    * USB-A to USB-MINI-B cord (or whatever cable is required for your calculator)
     * TI-Connect
 
 # Steps to get programs on calculator
