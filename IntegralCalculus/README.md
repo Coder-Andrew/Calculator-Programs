@@ -3,7 +3,7 @@
 ## Steps to use:
 1. Go to functions menu via the `Y=` key
 2. Input function you want to approximately integrate
-3. Select the method you want to use
+3. Select the method/fucntion you want to use
 4. Input bounds of integration and number of steps (a is lower bound, b is upper bound)
 5. Input number of steps and press enter
 6. The answer will be displayed on your calculator
