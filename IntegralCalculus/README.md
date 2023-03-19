@@ -10,9 +10,9 @@
 7. You can view the intermediate calculations using the through the list editor in the `STAT` menu
 
 ### Notes:
-- Remeber that the technique you use will give an underestimate/overestimate based on the function you are integrating
+- Remember that the technique you use will give an underestimate/overestimate based on the function you are integrating
 - `L1` are your function inputs
 - `L2` are your function outputs
 - `L3` are your function outputs with scalar multiples applied (depending on which technique you are using)
-- You can change your calculators settings through the `MODE` menu to display fractions (you will need to rerun the calculations)
+- If you want the calculations to be displayed as fractions you can change your calculators settings through the `MODE` menu (you will need to rerun the calculations)
 - Simpson's Rule requires an even `N`
